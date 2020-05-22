@@ -1,5 +1,5 @@
 apm:
-   image: mitrasonu/apache
+   image: mitrasonu/apm
    ports:
      - "80:80"
    links:
